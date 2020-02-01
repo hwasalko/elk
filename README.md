@@ -1,4 +1,4 @@
-# ELK Stack(Elasticsearch + Logstash + Kibana) 
+# ELK Stack (Elasticsearch + Logstash + Kibana + Beats) 
 ![ELK Stack](https://miro.medium.com/max/3064/0*VPlFPpkbPY15EWte.png)
 > ELK Stack이란?
 - Elasticsearch, Logstash, Kibana, Beats 를 일컬어 ELK Stack이라 부름
@@ -19,7 +19,6 @@
 - 라이센스는 다음과 같이 2 가지로 분류
 -    Apache 2.0 License : 검색엔진 등 주요 기능 사용/수정/재배포 모두 무료로 사용 가능(상업적 이용 포함)   
 -    Elastic License : 일부 유료기능을 제외한 모두 무료로 사용 가능(단, 사용만 무료이며 소스수정 및 재배포 불가)
-
    
 > 주요 고객사
 - 국내 : 삼성, 11번가, 네이버, 포스코 등
