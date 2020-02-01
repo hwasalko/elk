@@ -7,7 +7,11 @@ ELK(Elasticsearch + Logstash + Kibana) Stack
 - 데이터를 수집 및 가공한 후 실시간으로 검색, 분석, 시각화 가능
 - 공식 홈페이지 : https://elastic.co/kr/ 
 - 한국 커뮤니티 : https://www.facebook.com/groups/elasticsearch.kr/ (facebook 그룹)
-   
+
+> 구성도
+![ELK Stack](https://miro.medium.com/max/3064/0*VPlFPpkbPY15EWte.png)
+
+
    
 ## 1. Elasticsearch(엘라스틱서치)
 > Elasticsearch란? 
