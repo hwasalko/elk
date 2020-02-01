@@ -1,10 +1,10 @@
 # ELK Stack (Elasticsearch + Logstash + Kibana + Beats) 
-![ELK Stack](https://miro.medium.com/max/3064/0*VPlFPpkbPY15EWte.png)
 > ELK Stack이란?
 - Elasticsearch, Logstash, Kibana, Beats 를 일컬어 ELK Stack이라 부름
 - 데이터를 수집 및 가공한 후 실시간으로 검색, 분석, 시각화 가능
 - 공식 홈페이지 : https://elastic.co/kr/ 
 - 한국 커뮤니티 : https://www.facebook.com/groups/elasticsearch.kr/ (facebook 그룹)
+![ELK Stack](https://miro.medium.com/max/3064/0*VPlFPpkbPY15EWte.png)
 
 * * *
    
@@ -17,9 +17,10 @@
 - 2020년 1월 현재 최신버전은 7.5
 - AWS(아마존 클라우드), GCP(구글 클라우드)에서 클라우드 서비스 형태로도 이용 가능
 - 라이센스는 다음과 같이 2 가지로 분류
-   - [Apache 2.0 License] : 검색엔진 등 주요 기능 사용/수정/재배포 모두 무료로 사용 가능(상업적 이용 포함)   
-   - [Elastic License] : 일부 유료기능을 제외한 모두 무료로 사용 가능(단, 사용만 무료이며 소스수정 및 재배포 불가)
-   
+`
+    - [Apache 2.0 License] : 검색엔진 등 주요 기능 사용/수정/재배포 모두 무료로 사용 가능(상업적 이용 포함)   
+    - [Elastic License] : 일부 유료기능을 제외한 모두 무료로 사용 가능(단, 사용만 무료이며 소스수정 및 재배포 불가)
+`   
 > 주요 고객사
 - 국내 : 삼성, 11번가, 네이버, 포스코 등
 - 해외 : 깃허브, 아마존, 어도비, 페이스북, 넷플릭스, 이베이, 마이크로소프트, 폭스바겐, 블리자드, IBM 등
@@ -33,6 +34,8 @@
 
 ## 3. Kibana(키바나)
 > Kibana란?
+- Elasticsearch 데이터를 시각화 할 수 있는 도구
+- 다양한 차트 및 데시보드 구성을 통해 사용자에게 insight를 제시한다.
 ```
  String a = 1;
  Sting b = 2;
