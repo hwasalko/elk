@@ -24,10 +24,14 @@ ELK(Elasticsearch + Logstash + Kibana) Stack
 
 
 ## 2. Logstash(로그스테시)
-> Elasticsearch란? 
+> Logstash란? 
 - 자바로 개발된 데이터 집계, 변환, 저장 도구
 - Input - Filter - Output 구조로 되어 있으며 특히 'Filter'를 이용하여 다양하게 데이터 가공 가능   
 (ex) IP주소 추출, 포맷변경, replace, remove 등...
-- 
 
 ## 3. Kibana(키바나)
+> Kibana란?
+```
+ String a = 1;
+ Sting b = 2;
+```
