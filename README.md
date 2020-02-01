@@ -1,7 +1,4 @@
-ELK(Elasticsearch + Logstash + Kibana) Stack
-===================
-
-# ELK Stack
+# ELK Stack(Elasticsearch + Logstash + Kibana) 
 ![ELK Stack](https://miro.medium.com/max/3064/0*VPlFPpkbPY15EWte.png)
 > ELK Stack이란?
 - Elasticsearch, Logstash, Kibana, Beats 를 일컬어 ELK Stack이라 부름
@@ -9,8 +6,7 @@ ELK(Elasticsearch + Logstash + Kibana) Stack
 - 공식 홈페이지 : https://elastic.co/kr/ 
 - 한국 커뮤니티 : https://www.facebook.com/groups/elasticsearch.kr/ (facebook 그룹)
 
-
-
+* * *
    
 ## 1. Elasticsearch(엘라스틱서치)
 > Elasticsearch란? 
